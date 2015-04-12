@@ -1,4 +1,4 @@
-package pattern.Decorator;
+package pattern.decorator;
 
 public abstract class EmissorDecorador implements Emissor{
 	

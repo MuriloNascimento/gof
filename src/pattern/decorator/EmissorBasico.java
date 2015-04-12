@@ -1,4 +1,4 @@
-package pattern.Decorator;
+package pattern.decorator;
 
 public class EmissorBasico implements Emissor {
 
